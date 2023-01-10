@@ -4,8 +4,7 @@
 <ol>
 <li>Primero haciendo una petición del HTML de la página de elpais.com con Axios</li>
 <li>Después convirtiendo ese HTML a una estructura de DOM</li>
-<li>Extraer todos los elementos que queremos de esa estructura de DOM:</li>
- 
+<li>Extrayendo todos los elementos que queremos de esa estructura de DOM:</li>
 <ul>
 <li>título</li>
 <li>entradilla</li>
